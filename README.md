@@ -32,7 +32,6 @@ Install at least one theme, or all of them (visit https://jsonresume.org/themes/
 npm install jsonresume-theme-elegant
 npm install jsonresume-theme-kendall
 npm install jsonresume-theme-macchiato
-npm install jsonresume-theme-relaxed
 npm install jsonresume-theme-rickosborne
 ```
 
