@@ -21,7 +21,7 @@ npm install -g resume-cli
 You can check if `resume` CLI is installed via
 
 ```bash
-$ resume --help
+resume --help
 ````
 
 #### Install themes
