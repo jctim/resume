@@ -32,7 +32,7 @@
       "position": "Senior Scala Engineer",
       "url": "https://getbux.com/",
       "startDate": "2022-03-01",
-      "summary": "Backend developer responsible for the cryptocurrency trading services of BUX app",
+      "summary": "Backend developer responsible for the cryptocurrency trading services of BUX app.",
       "highlights": [
         "Docker, Kubernetes, GCP",
         "Scala, sbt, Functional programming",
@@ -43,7 +43,7 @@
         "Python",
         "Microservices architecture",
         "REST API, OpenAPI, OAuth 2.0",
-        "Prometheus, Grafana",
+        "Gitlab CI/CD, Github Actions, Prometheus, Grafana",
         "Postgres"
       ]
     },
@@ -65,7 +65,7 @@
         "Apache ActiveMQ",
         "REST API, OAuth 2.0",
         "Postgres, Oracle DB",
-        "ELK Stack",
+        "Jenkins, ELK Stack",
         "Leading a team of Scala and Java developers"
       ]
     },
@@ -85,7 +85,7 @@
         "Kafka, Kafka Streams",
         "Postgres",
         "Apache Solr, Distributed indexing",
-        "ELK Stack",
+        "ELK Stack, TeamCity",
         "Leading a team of Scala developers"
       ]
     },
@@ -105,6 +105,7 @@
         "Apache Camel, Zookeeper",
         "Akka",
         "Oracle DB, Oracle Coherence Cache",
+        "Jenkins, TeamCity",
         "Leading a team"
       ]
     },
@@ -122,7 +123,8 @@
         "Spring, Spring MVC, Spring Security, Hibernate, JMS, JPA",
         "Apache ActiveMQ, Amazon SNS",
         "Memcached",
-        "MySQL"
+        "MySQL",
+        "Jenkins"
       ]
     },
     {
@@ -140,7 +142,8 @@
         "Spring, JMS, JPA, XML, XSL",
         "Apache Camel, Zookeeper",
         "Akka, Lift web framework",
-        "Oracle DB, Oracle Coherence Cache"
+        "Oracle DB, Oracle Coherence Cache",
+        "Jenkins, TeamCity"
       ]
     },
     {
@@ -157,7 +160,8 @@
         "Spring, JPA, JSF, Swing",
         "Hibernate",
         "Google Maps API, Amazon S3, Amazon EC2",
-        "MySQL"
+        "MySQL",
+        "Jenkins"
       ]
     },
     {
@@ -168,12 +172,13 @@
       "url": "https://www.dataart.com/",
       "startDate": "2007-07-01",
       "endDate": "2008-12-31",
-      "summary": "Web development of an electronic school management system",
+      "summary": "Web development of an electronic school management system.",
       "highlights": [
         "Java, Ant",
         "J2EE, GWT, ExtJS",
         "Hibernate",
-        "MySQL"
+        "MySQL",
+        "Jenkins"
       ]
     }
   ],
@@ -193,10 +198,20 @@
       "keywords": [
         "Functional programming",
         "Object-oriented programming",
+        "Microservices architecture",
         "Scala",
         "Kotlin",
         "Java",
-        "Rust"
+        "Rust",
+        "Python",
+        "Erlang",
+        "SQL",
+        "Kafka",
+        "Cloud Computing",
+        "Docker",
+        "Kubernetes",
+        "Elasticsearch",
+        "CI/CD"
       ]
     },
     {

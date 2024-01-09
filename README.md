@@ -29,6 +29,7 @@ resume --help
 Install at least one theme, or all of them (visit https://jsonresume.org/themes/ for more details)
 
 ```bash
+npm install jsonresume-theme-even
 npm install jsonresume-theme-elegant
 npm install jsonresume-theme-kendall
 npm install jsonresume-theme-macchiato
