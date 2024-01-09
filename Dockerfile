@@ -7,10 +7,11 @@ WORKDIR /resume
 RUN npm install -g resume-cli
 RUN npm install jsonresume-theme-macchiato
 RUN npm install jsonresume-theme-elegant
+RUN npm install jsonresume-theme-even
 
 COPY . .
 RUN mkdir public
-RUN resume export public/index.html --theme macchiato
+RUN resume export public/index.html --theme even
 # RUN resume export public/cv.pdf --theme macchiato
 
 
