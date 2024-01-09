@@ -2,13 +2,13 @@ FROM node:18.17.0 as build
 
 # RUN apt-get upgrade && apt-get update && apt-get install chromium -y
 
-RUN git clone https://github.com/jctim/resume.git
-# RUN cd resume
 WORKDIR /resume
 
 RUN npm install -g resume-cli
 RUN npm install jsonresume-theme-macchiato
+RUN npm install jsonresume-theme-elegant
 
+COPY . .
 RUN mkdir public
 RUN resume export public/index.html --theme macchiato
 # RUN resume export public/cv.pdf --theme macchiato
