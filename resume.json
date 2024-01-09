@@ -1,0 +1,238 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Illia Tkachuk",
+        "label": "Software Engineer",
+        "image": "",
+        "email": "tkachuk.i.m@gmail.com",
+        "summary": "As a Senior Scala Engineer at BUX, I apply my passion for functional programming and distributed systems to build scalable and reliable backend services for the online trading platform.\n\nI have over 10 years of experience in software development, with a strong focus on Scala and JVM technologies.\n\nI have successfully led and contributed to multiple projects involving microservices, REST API, Kafka, Akka, cats, cats-effect and http4s. I also have proficiency in Python, Kotlin, Rust, Google Cloud Platform and various databases.\n\nI hold a master's degree in Mathematics and Informatics from Kherson State University, where I developed my analytical and problem-solving skills.\n\nI enjoy learning new tools and frameworks, collaborating with other engineers, and delivering high-quality code that meets the business needs and user expectations.",
+        "location": {
+            "city": "Amsterdam",
+            "region": "North Holland",
+            "countryCode": "NL"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "illia-tkachuk",
+                "url": "https://www.linkedin.com/in/illia-tkachuk/"
+            },
+            {
+                "network": "Github",
+                "username": "jctim",
+                "url": "https://github.com/jctim"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "BUX",
+            "description": "BUX is one of Europe's fastest-growing neo-brokers and has been making it easy and affordable for Europeans to do more with their money since 2014.",
+            "location": "Amsterdam, NL",
+            "position": "Senior Scala Engineer",
+            "url": "https://getbux.com/",
+            "startDate": "2022-03-01",
+            "summary": "Backend developer responsible for the cryptocurrency trading services of BUX app",
+            "highlights": [
+                "Docker, Kubernetes, GCP",
+                "Scala, sbt, Functional programming",
+                "Akka, Akka Streams, Akka HTTP",
+                "cats, cats-effect, fs2, http4s, sttp, tapir",
+                "Kafka, Kafka Streams",
+                "Kotlin, Gradle, Object-oriented programming",
+                "Python",
+                "Microservices architecture",
+                "REST API, OpenAPI, OAuth 2.0",
+                "Prometheus, Grafana",
+                "Postgres"
+            ]
+        },
+        {
+            "name": "DataArt",
+            "description": "Founded in 1997, DataArt is a global software engineering firm and the trusted technology partner of market leaders.",
+            "location": "Wroclaw, PL",
+            "position": "Senior Scala Engineer | Team Lead",
+            "url": "https://www.dataart.com/",
+            "startDate": "2021-03-01",
+            "endDate": "2022-02-28",
+            "summary": "Backend developer responsible for a warehouse's management services and integration with the company's internal systems.",
+            "highlights": [
+                "Docker, Kubernetes",
+                "Scala, sbt, Functional programming",
+                "Akka, Akka HTTP",
+                "cats, cats-effect, http4s",
+                "Microservices architecture",
+                "Apache ActiveMQ",
+                "REST API, OAuth 2.0",
+                "Postgres, Oracle DB",
+                "ELK Stack",
+                "Leading a team of Scala and Java developers"
+            ]
+        },
+        {
+            "name": "Luxoft",
+            "description": "Luxoft empowers business leaders with enhanced analytics and software engineering capabilities that stabilize enterprises and help them thrive in shifting and complex markets.",
+            "location": "Wroclaw, PL",
+            "position": "Senior Scala Engineer | Technical Lead",
+            "url": "https://www.luxoft.com/",
+            "startDate": "2019-03-01",
+            "endDate": "2021-02-28",
+            "summary": "Backend developer responsible for a Bank's services aimed to facilitate documents archiving via providing REST API and automated pipelines handling event-based archiving processes.",
+            "highlights": [
+                "Scala, Gradle, Functional programming",
+                "Akka, Akka Streams, Akka HTTP",
+                "cats",
+                "Kafka, Kafka Streams",
+                "Postgres",
+                "Apache Solr, Distributed indexing",
+                "ELK Stack",
+                "Leading a team of Scala developers"
+            ]
+        },
+        {
+            "name": "Luxoft",
+            "description": "Luxoft empowers business leaders with enhanced analytics and software engineering capabilities that stabilize enterprises and help them thrive in shifting and complex markets.",
+            "location": "Wroclaw, PL",
+            "position": "Senior Software Engineer | Technical Lead",
+            "url": "https://www.luxoft.com/",
+            "startDate": "2016-10-01",
+            "endDate": "2019-02-28",
+            "summary": "Backend developer responsible for a Bank's OTC trading platform services, with the backend services running on JVM, mainly Java and Scala.",
+            "highlights": [
+                "Scala, Functional programming",
+                "Java, Maven, Gradle, Object-oriented programming",
+                "Spring, JMS, JPA",
+                "Apache Camel, Zookeeper",
+                "Akka",
+                "Oracle DB, Oracle Coherence Cache",
+                "Leading a team"
+            ]
+        },
+        {
+            "name": "Star",
+            "description": "Star is a global team of product creators. Whether you are a start-up or an enterprise, we help you innovate, transform, grow and prosper.",
+            "location": "Wroclaw, PL",
+            "position": "Senior Java Engineer",
+            "url": "https://star.global/",
+            "startDate": "2014-10-01",
+            "endDate": "2016-09-30",
+            "summary": "A software developer responsible for the backend for branded mobile applications for fitness and health clubs.",
+            "highlights": [
+                "Java, Gradle, Object-oriented programming",
+                "Spring, Spring MVC, Spring Security, Hibernate, JMS, JPA",
+                "Apache ActiveMQ, Amazon SNS",
+                "Memcached",
+                "MySQL"
+            ]
+        },
+        {
+            "name": "Luxoft",
+            "description": "Luxoft empowers business leaders with enhanced analytics and software engineering capabilities that stabilize enterprises and help them thrive in shifting and complex markets.",
+            "location": "Kyiv, UA",
+            "position": "Senior Java Developer | Senior Scala Developer",
+            "url": "https://www.luxoft.com/",
+            "startDate": "2010-07-01",
+            "endDate": "2014-09-30",
+            "summary": "Backend developer responsible for a Bank's OTC trading platform services, with the backend services running on JVM, mainly Java and Scala.",
+            "highlights": [
+                "Java, Maven, Gradle, Object-oriented programming",
+                "Scala, sbt, Functional programming",
+                "Spring, JMS, JPA, XML, XSL",
+                "Apache Camel, Zookeeper",
+                "Akka, Lift web framework",
+                "Oracle DB, Oracle Coherence Cache"
+            ]
+        },
+        {
+            "name": "GeeksForLess",
+            "description": "IT Outsourcing Services. GeeksForLess (GFL) - your trusted IT partner. Creating customer success stories for over 20 years.",
+            "location": "Mykolaiv, UA",
+            "position": "Senior Java Developer",
+            "url": "https://geeksforless.com/",
+            "startDate": "2009-02-01",
+            "endDate": "2010-06-30",
+            "summary": "Backend development of various enterprise applications.\n\n Backend, Web and Android development of an electronic species guide.\n\n Development of a desktop cross-platform installer for Solr application",
+            "highlights": [
+                "Java, Maven",
+                "Spring, JPA, JSF, Swing",
+                "Hibernate",
+                "Google Maps API, Amazon S3, Amazon EC2",
+                "MySQL"
+            ]
+        },
+        {
+            "name": "DataArt",
+            "description": "Founded in 1997, DataArt is a global software engineering firm and the trusted technology partner of market leaders.",
+            "location": "Kherson, UA",
+            "position": "Java Developer",
+            "url": "https://www.dataart.com/",
+            "startDate": "2007-07-01",
+            "endDate": "2008-12-31",
+            "summary": "Web development of an electronic school management system",
+            "highlights": [
+                "Java, Ant",
+                "J2EE, GWT, ExtJS",
+                "Hibernate",
+                "MySQL"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Kherson State University",
+            "url": "https://www.linkedin.com/school/kherson-state-university/",
+            "area": "Mathematics and Informatics",
+            "studyType": "Master",
+            "startDate": "2002-09-01",
+            "endDate": "2007-06-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Backend Development",
+            "keywords": [
+                "Functional programming",
+                "Object-oriented programming",
+                "Scala",
+                "Kotlin",
+                "Java",
+                "Rust"
+            ]
+        },
+        {
+            "name": "Web development",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JS",
+                "XML",
+                "XSL"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Ukrainian",
+            "fluency": "Native"
+        },
+        {
+            "language": "Russian",
+            "fluency": "Native"
+        },
+        {
+            "language": "Polish",
+            "fluency": "Fluent"
+        }
+    ],
+    "interests": [],
+    "projects": [],
+    "meta": {
+        "canonical": "https://gist.githubusercontent.com/jctim/b388cf1b65c6e20ce9dc2573abe97df7/raw/4d5147d96dfaae99bdf21a5f0048febf9782a366/resume.json",
+        "version": "v1.0.0",
+        "lastModified": "2024-01-08T16:10:29+0100"
+    }
+}
