@@ -35,17 +35,19 @@
       "startDate": "2022-03-01",
       "summary": "Backend developer responsible for the cryptocurrency trading services of BUX app.",
       "highlights": [
-        "Docker, Kubernetes, GCP",
-        "Scala, SBT, Functional programming",
-        "Akka, Akka Streams, Akka HTTP",
-        "cats, cats-effect, fs2, http4s, sttp, tapir",
-        "Kafka, Kafka Streams",
-        "Kotlin, Gradle, Object-oriented programming",
-        "Python",
-        "Microservices architecture",
-        "REST API, OpenAPI, OAuth 2.0",
-        "Gitlab CI/CD, Github Actions, Prometheus, Grafana",
-        "Postgres"
+        "Perform design, development and bug-fixing tasks",
+        "Deploy and maintain services in a Kubernetes cluster",
+        "Optimization of backend services performance",
+        "Integration with external exchanges and internal core services",
+        "On-call support",
+        "Docker / Kubernetes / Microservices /  Prometheus / Grafana / GCP",
+        "**Programming languages**: Scala / Kotlin / Python",
+        "**Scala Lightbend**: Akka / Akka Streams / Akka HTTP",
+        "**Scala Typelevel**: cats / cats-effect / fs2 / http4s / tapir",
+        "Kafka / Kafka Streams",
+        "Postgres",
+        "REST API / OpenAPI / OAuth 2.0",
+        "Gitlab Pipelines / Github Actions"
       ]
     },
     {
@@ -58,16 +60,18 @@
       "endDate": "2022-02-28",
       "summary": "Backend developer responsible for a warehouse's management services and integration with the company's internal systems.",
       "highlights": [
-        "Docker, Kubernetes",
-        "Scala, SBT, Functional programming",
-        "Akka, Akka HTTP",
-        "cats, cats-effect, http4s",
-        "Microservices architecture",
+        "Perform design, development and bug-fixing tasks",
+        "Site Reliability Engineering",
+        "Integration with internal services",
+        "On-call support",
+        "Leading a team of Scala and Java developers (_Sep 2021 - Feb 2022_)",
+        "Docker / Docker compose / Microservices / ELK",
+        "**Programming languages**: Scala / Java",
+        "**Scala**: Akka / Akka HTTP / cats / cats-effect / http4s",
         "Apache ActiveMQ",
-        "REST API, OAuth 2.0",
-        "Postgres, Oracle DB",
-        "Jenkins, ELK Stack",
-        "Leading a team of Scala and Java developers"
+        "Postgres / Oracle DB",
+        "REST API / OAuth 2.0",
+        "Jenkins"
       ]
     },
     {
@@ -80,14 +84,17 @@
       "endDate": "2021-02-28",
       "summary": "Backend developer responsible for a Bank's services aimed to facilitate documents archiving via providing REST API and automated pipelines handling event-based archiving processes.",
       "highlights": [
-        "Scala, Gradle, Functional programming",
-        "Akka, Akka Streams, Akka HTTP",
-        "cats",
+        "Perform development and bug-fixing tasks",
+        "Participate in designing of the archiving pipelines",
+        "Integration with documents indexing engine",
+        "Leading a team of Scala developers (_Jun 2021 - Feb 2021_)",
+        "Microservices / ELK",
+        "Scala / Gradle",
+        "Akka / Akka Streams / Akka HTTP / cats",
         "Kafka, Kafka Streams",
         "Postgres",
-        "Apache Solr, Distributed indexing",
-        "ELK Stack, TeamCity",
-        "Leading a team of Scala developers"
+        "Apache Solr / Distributed indexing",
+        "TeamCity"
       ]
     },
     {
@@ -100,14 +107,18 @@
       "endDate": "2019-02-28",
       "summary": "Backend developer responsible for a Bank's OTC trading platform services, with the backend services running on JVM, mainly Java and Scala.",
       "highlights": [
-        "Scala, Functional programming",
-        "Java, Maven, Gradle, Object-oriented programming",
-        "Spring, JMS, JPA",
-        "Apache Camel, Zookeeper",
-        "Akka",
-        "Oracle DB, Oracle Coherence Cache",
-        "Jenkins, TeamCity",
-        "Leading a team"
+        "Perform development and bug-fixing tasks",
+        "Develop a scalable connector to particular affirmation system with negotiating between deal parties",
+        "Participate in development of a system health web dashboard",
+        "UAT and production support",
+        "Leading a team  (_Mar 2017 - Feb 2019_)",
+        "Microservices / REST API / Event bus",
+        "**Programming languages**: Scala / Java",
+        "**Java**: Spring / JMS / JPA",
+        "**Scala**: Akka",
+        "Apache Camel / Apache Zookeeper",
+        "Oracle DB / Oracle Coherence Cache",
+        "TeamCity"
       ]
     },
     {
@@ -120,9 +131,12 @@
       "endDate": "2016-09-30",
       "summary": "A software developer responsible for the backend for branded mobile applications for fitness and health clubs.",
       "highlights": [
-        "Java, Gradle, Object-oriented programming",
-        "Spring, Spring MVC, Spring Security, Hibernate, JMS, JPA",
-        "Apache ActiveMQ, Amazon SNS",
+        "Perform development and bug-fixing tasks",
+        "Develop back-end for mobile and web applications",
+        "Integration with particular partner's APIs",
+        "Java / Gradle",
+        "Spring / Spring MVC / Spring Security / Hibernate / JMS / JPA",
+        "Apache ActiveMQ / Amazon SNS",
         "Memcached",
         "MySQL",
         "Jenkins"
@@ -138,13 +152,18 @@
       "endDate": "2014-09-30",
       "summary": "Backend developer responsible for a Bank's OTC trading platform services, with the backend services running on JVM, mainly Java and Scala.",
       "highlights": [
-        "Java, Maven, Gradle, Object-oriented programming",
-        "Scala, SBT, Functional programming",
-        "Spring, JMS, JPA, XML, XSL",
-        "Apache Camel, Zookeeper",
-        "Akka, Lift web framework",
-        "Oracle DB, Oracle Coherence Cache",
-        "Jenkins, TeamCity"
+        "Perform development and bug-fixing tasks",
+        "Continuous development and maintenance of backend server for a front-office UI application",
+        "Design and develop a trade matching engine",
+        "Participate in development of core rule-based XML enrichment engine",
+        "UAT and production support",
+        "REST API / Event bus",
+        "**Programming languages**: Scala / Java",
+        "**Java**: Spring / JMS / JPA",
+        "**Scala**: Akka, Liftweb",
+        "Apache Camel / Apache Zookeeper",
+        "Oracle DB / Oracle Coherence Cache",
+        "Jenkins"
       ]
     },
     {
@@ -155,12 +174,15 @@
       "url": "https://geeksforless.com/",
       "startDate": "2009-02-01",
       "endDate": "2010-06-30",
-      "summary": "Backend development of various enterprise applications.\n\n Backend, Web and Android development of an electronic species guide.\n\n Development of a desktop cross-platform installer for Solr application",
+      "summary": "A Java developer involved in various projects with different responsibilities.",
       "highlights": [
-        "Java, Maven",
-        "Spring, JPA, JSF, Swing",
+        "Development of Web and Android applications of an electronic species guide",
+        "Development of cross-platform desktop installer for Solr indexing engine with a dedicated backed for plugins management",
+        "Backend services for processing coupon feeds from various e-shops",
+        "Java / Maven",
+        "Spring / JPA / JSF / Swing",
         "Hibernate",
-        "Google Maps API, Amazon S3, Amazon EC2",
+        "Google Maps API / Amazon S3 / Amazon EC2",
         "MySQL",
         "Jenkins"
       ]
@@ -175,8 +197,9 @@
       "endDate": "2008-12-31",
       "summary": "Web development of an electronic school management system.",
       "highlights": [
-        "Java, Ant",
-        "J2EE, GWT, ExtJS",
+        "Develop events management module consists of a calendar view and the corresponding back-end",
+        "Java / Ant",
+        "J2EE / GWT / ExtJS",
         "Hibernate",
         "MySQL",
         "Jenkins"
@@ -324,12 +347,13 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
   "projects": [
     {
       "name": "OTP Auth Widget for Garmin Connect IQ",
       "type": "App for Garmin Smartwatch",
       "entity": "Individual",
+      "startDate": "2018-01-01",
+      "endDate": "2018-02-01",
       "roles": [
         "Software developer"
       ],
@@ -350,6 +374,8 @@
       "name": "Air Quality Index Widget for Garmin Connect IQ",
       "type": "App for Garmin Smartwatch",
       "entity": "Individual",
+      "startDate": "2018-02-01",
+      "endDate": "2018-03-01",
       "roles": [
         "Software developer"
       ],
@@ -363,6 +389,38 @@
         "Connect IQ SDK",
         "Garmin Monkey C",
         "Make"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Listening a lot",
+        "Playing sometimes"
+      ]
+    },
+    {
+      "name": "Indoor",
+      "keywords": [
+        "Reading books",
+        "Watching movies",
+        "Video gaming"
+      ]
+    },
+    {
+      "name": "Outdoor",
+      "keywords": [
+        "Travelling",
+        "Cycling",
+        "Biking"
+      ]
+    },
+    {
+      "name": "Personal development",
+      "keywords": [
+        "Learning",
+        "Open Source"
       ]
     }
   ],
