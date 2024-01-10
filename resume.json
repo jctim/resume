@@ -195,34 +195,114 @@
   ],
   "skills": [
     {
+      "name": "Programming Languages",
+      "keywords": [
+        "Scala",
+        "Kotlin",
+        "Java",
+        "JavaScript",
+        "Rust",
+        "Python",
+        "Erlang",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Scala",
+      "keywords": [
+        "ScalaTest",
+        "Akka",
+        "Akka Streams",
+        "Akka HTTP",
+        "Play",
+        "Slick",
+        "cats",
+        "cats-effect",
+        "skunk",
+        "ciris",
+        "http4s",
+        "fs2",
+        "sttp",
+        "tapir"
+      ]
+    },
+    {
+      "name": "JVM",
+      "keywords": [
+        "JDBC",
+        "JMS",
+        "JPA",
+        "JMX",
+        "JSP",
+        "Servlets",
+        "JFC (Swing)",
+        "JAXB",
+        "JAX-RS",
+        "Spring",
+        "Spring MVC",
+        "Spring Security",
+        "Hibernate",
+        "JUnit",
+        "Apache Camel",
+        "Apache ActiveMQ",
+        "Apache Zookeeper",
+        "Apache Solr"
+      ]
+    },
+    {
+      "name": "Build tools",
+      "keywords": [
+        "SBT",
+        "Gradle",
+        "Maven",
+        "Make"
+      ]
+    },
+    {
       "name": "Backend Development",
       "keywords": [
         "Functional programming",
         "Object-oriented programming",
+        "Test Driven Development",
         "Microservices architecture",
-        "Scala",
-        "Kotlin",
-        "Java",
-        "Rust",
-        "Python",
-        "Erlang",
-        "SQL",
-        "Kafka",
+        "Memcached",
+        "OpenAPI",
+        "OAuth 2.0",
         "Cloud Computing",
+        "Kafka",
+        "Kafka Streams",
         "Docker",
         "Kubernetes",
-        "Elasticsearch",
+        "ELK",
+        "Prometheus",
+        "Grafana",
         "CI/CD"
       ]
     },
     {
-      "name": "Web development",
+      "name": "Web",
       "keywords": [
         "HTML",
         "CSS",
-        "JS",
         "XML",
-        "XSL"
+        "XSL",
+        "JSON"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "Postgres",
+        "MySQL",
+        "Oracle DB"
+      ]
+    },
+    {
+      "name": "Source Control",
+      "keywords": [
+        "Git",
+        "Perforce",
+        "SVN"
       ]
     }
   ],
@@ -245,7 +325,47 @@
     }
   ],
   "interests": [],
-  "projects": [],
+  "projects": [
+    {
+      "name": "OTP Auth Widget for Garmin Connect IQ",
+      "type": "App for Garmin Smartwatch",
+      "entity": "Individual",
+      "roles": [
+        "Software developer"
+      ],
+      "highlights": [
+        "Design and development",
+        "Implementing of HOTP (RFC 4226) in Monkey C language",
+        "Publishing to ConnectIQ Store"
+      ],
+      "description": "A manager of one-time passwords right on a Garmin wearable device.",
+      "url": "https://github.com/jctim/otp-ciq",
+      "keywords": [
+        "Connect IQ SDK",
+        "Monkey C",
+        "Make"
+      ]
+    },
+    {
+      "name": "Air Quality Index Widget for Garmin Connect IQ",
+      "type": "App for Garmin Smartwatch",
+      "entity": "Individual",
+      "roles": [
+        "Software developer"
+      ],
+      "highlights": [
+        "Design and development",
+        "Publishing to ConnectIQ Store"
+      ],
+      "description": "A widget aimed to display AQI (Air Quality Index) for current geo position or desired city station right on a Garmin wearable device.",
+      "url": "https://github.com/jctim/aqi-ciq",
+      "keywords": [
+        "Connect IQ SDK",
+        "Garmin Monkey C",
+        "Make"
+      ]
+    }
+  ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jctim/resume/master/resume.json",
     "version": "v1.0.0",
