@@ -36,7 +36,7 @@
       "summary": "Backend developer responsible for the cryptocurrency trading services of BUX app.",
       "highlights": [
         "Docker, Kubernetes, GCP",
-        "Scala, sbt, Functional programming",
+        "Scala, SBT, Functional programming",
         "Akka, Akka Streams, Akka HTTP",
         "cats, cats-effect, fs2, http4s, sttp, tapir",
         "Kafka, Kafka Streams",
@@ -59,7 +59,7 @@
       "summary": "Backend developer responsible for a warehouse's management services and integration with the company's internal systems.",
       "highlights": [
         "Docker, Kubernetes",
-        "Scala, sbt, Functional programming",
+        "Scala, SBT, Functional programming",
         "Akka, Akka HTTP",
         "cats, cats-effect, http4s",
         "Microservices architecture",
@@ -139,7 +139,7 @@
       "summary": "Backend developer responsible for a Bank's OTC trading platform services, with the backend services running on JVM, mainly Java and Scala.",
       "highlights": [
         "Java, Maven, Gradle, Object-oriented programming",
-        "Scala, sbt, Functional programming",
+        "Scala, SBT, Functional programming",
         "Spring, JMS, JPA, XML, XSL",
         "Apache Camel, Zookeeper",
         "Akka, Lift web framework",
