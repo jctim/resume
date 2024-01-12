@@ -11,7 +11,7 @@ RUN npm install jsonresume-theme-even
 
 COPY . .
 RUN mkdir public
-RUN resume export public/index.html --theme even
+RUN resume export public/index.html --theme elegant
 # RUN resume export public/cv.pdf --theme macchiato
 
 
