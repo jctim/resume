@@ -6,6 +6,7 @@ a [JSON-based standard for resumes](https://jsonresume.org/).
 The JSON file is based on the schema https://jsonresume.org/schema/
 
 The latest version of the résumé is always available at https://registry.jsonresume.org/jctim.
+The latest version of the résumé is also available at https://resume.tkachuk.xyz.
 
 ## Export to PDF
 
