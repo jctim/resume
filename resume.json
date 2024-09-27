@@ -27,6 +27,30 @@
   },
   "work": [
     {
+      "name": "Automotive MediaVentions",
+      "description": "Internet Marketplace Platforms. The new unique collaboration between DPG Media and Mediahuis that enables car companies to reach Dutch car buyers faster and more efficiently.",
+      "location": "Amsterdam, NL",
+      "position": "Senior Backend Engineer",
+      "url": "https://www.automotive-mediaventions.nl/",
+      "startDate": "2024-05-15",
+      "summary": "Backend developer on Automotive platform",
+      "highlights": [
+        "Perform design, development and bug-fixing tasks",
+        "Deploy and maintain services in a Kubernetes cluster",
+        "Optimization of backend services performance",
+        "Integration with external exchanges and internal core services",
+        "On-call support",
+        "Docker / Kubernetes / Microservices /  Prometheus / Grafana / GCP",
+        "**Programming languages**: Scala / Kotlin / Python",
+        "**Scala Lightbend**: Akka / Akka Streams / Akka HTTP",
+        "**Scala Typelevel**: cats / cats-effect / fs2 / http4s / tapir",
+        "Kafka / Kafka Streams",
+        "Postgres",
+        "REST API / OpenAPI / OAuth 2.0",
+        "Gitlab Pipelines / Github Actions"
+      ]
+    },
+    {
       "name": "BUX",
       "description": "BUX is one of Europe's fastest-growing neo-brokers and has been making it easy and affordable for Europeans to do more with their money since 2014.",
       "location": "Amsterdam, NL",
