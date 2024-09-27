@@ -35,19 +35,7 @@
       "startDate": "2024-05-15",
       "summary": "Backend developer on Automotive platform",
       "highlights": [
-        "Perform design, development and bug-fixing tasks",
-        "Deploy and maintain services in a Kubernetes cluster",
-        "Optimization of backend services performance",
-        "Integration with external exchanges and internal core services",
-        "On-call support",
-        "Docker / Kubernetes / Microservices /  Prometheus / Grafana / GCP",
-        "**Programming languages**: Scala / Kotlin / Python",
-        "**Scala Lightbend**: Akka / Akka Streams / Akka HTTP",
-        "**Scala Typelevel**: cats / cats-effect / fs2 / http4s / tapir",
-        "Kafka / Kafka Streams",
-        "Postgres",
-        "REST API / OpenAPI / OAuth 2.0",
-        "Gitlab Pipelines / Github Actions"
+
       ]
     },
     {
