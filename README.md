@@ -16,6 +16,8 @@ You should have `node` and `npm` installed.
 To install `resume-cli` you need to run command
 
 ```bash
+nvm install 18
+nvm use 18
 npm install -g resume-cli
 ```
 
