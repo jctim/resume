@@ -33,10 +33,20 @@
       "position": "Senior Backend Engineer",
       "url": "https://www.automotive-mediaventions.nl/",
       "startDate": "2024-05-15",
-      "summary": "Backend developer on Automotive platform",
+      "summary": "Backend developer on Automotive marketplace  platform",
       "highlights": [
-
-      ]
+        "Perform design, development and bug-fixing tasks",
+        "Deploy and maintain services in a Kubernetes cluster",
+        "Optimization of backend services performance",
+        "Integration with external exchanges and internal core services",
+        "Docker / Kubernetes / Microservices / NewRelic / AWS",
+        "**Programming languages**: Scala / Java / Python",
+        "**Scala**: cats / cats-effect / fs2 / http4s / tapir",
+        "Kafka",
+        "Postgres",
+        "REST API / OpenAPI",
+        "CICD: Github Actions"
+      ]   
     },
     {
       "name": "BUX",
